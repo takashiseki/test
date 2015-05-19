@@ -1,7 +1,7 @@
 <<<<<<< .merge_file_a07120
 # test(localでコンフリクト)
 =======
-# test(githubでコンフリクト）
+# test(githubでコンフリクト2）
 >>>>>>> .merge_file_a01564
 リポジトリ
 testtesteteste
